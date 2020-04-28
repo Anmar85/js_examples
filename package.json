@@ -1,0 +1,11 @@
+{
+    "name": "Jenan-test-project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "supertest": "^4.0.2",
+        "superagent": "^5.1.0",
+        "config": "^3.2.4",
+        "express": "^4.17.1"
+    }
+}
